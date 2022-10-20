@@ -5,9 +5,9 @@
 
 ## My Stats
  <div>
-  <a href="https://github.com/isaacbrasil">
+  <a href="https://github.com/Isaac-Brasil-EM">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Isaac-Brasil-EM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Brasil-EM&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Brasil-EM&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <!---
 Isaac-Brasil-EM/Isaac-Brasil-EM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
