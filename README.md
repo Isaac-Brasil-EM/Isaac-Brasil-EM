@@ -14,6 +14,11 @@
    <img height="180em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-Brasil-EM&layout=compact&langs_count=7&theme=tokyonight"/> 
   </div>
 </div>
+
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Isaac-Brasil-EM/count.svg" />
+</p>
 <!---
 Isaac-Brasil-EM/Isaac-Brasil-EM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
