@@ -1,6 +1,6 @@
 ### Hello, I'm Isaac Brasil  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ## About me
-- 👨‍💻 I’m interested in Development
+- 👨‍💻 I’m interested in Web and Mobile Development
 - 📚 I’m currently learning C#, OOP and Firebase
 - 📫 How to reach me: isaac.brasil@escolarmanager.com.br
 
